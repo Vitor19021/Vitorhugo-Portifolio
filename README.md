@@ -5,7 +5,6 @@ Este é um projeto de portfólio pessoal desenvolvido em HTML, CSS, JavaScript e
 
 ### 📌 Versão Atual: **1.2**
 - 📌 **Ainda não responsivo**
-- 📌 **O botão de mudança de tema ainda não está funcional**
 - 📌 **A opção para alternar para o idioma inglês ainda não está funcional**
 
 ## 🚀 Tecnologias Utilizadas
@@ -45,13 +44,9 @@ O formulário permite o envio de mensagens via e-mail. Ele está localizado na s
 
 ## 📌 Melhorias Planejadas
 🔧 Tornar o site responsivo
-🔧 Implementar a funcionalidade de mudança de tema
 🔧 Criar a versão em inglês do site
 🔧 Melhorar a acessibilidade e SEO
 
-## 📌 Como Executar o Projeto
-
-Acesse `http://localhost:8000/PG_INICIAL.HTML` no navegador.
 
 ---
 
